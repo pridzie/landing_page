@@ -15,9 +15,11 @@
     justify-content: center;
     font-family: Roboto;
 }
+.Logo{
+    margin-right: 292px;
+}
 
 .titles {
-    width: 960px;
     display: flex;
     justify-content: space-between;
 }
@@ -84,8 +86,8 @@
 }
 
 .img img {
-    width: 358px;
-    height: 185;
+    width: 340px;
+    height: 170;
     margin-left: 10px;
 }
 
